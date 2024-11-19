@@ -63,8 +63,10 @@ Y= A⊕B
 
 
 **PROGRAM**
-Module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+Module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7); 
+
 input a,b;
+
 output c1,c2,c3,c4,c5,c6,c7;
 
 not g1(c1,a);
